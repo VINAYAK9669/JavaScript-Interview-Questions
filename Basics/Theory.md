@@ -9,7 +9,8 @@
 
 #### i) `Interpreted` Programming Language.
 
-            - `Interpreted`: In such a programming langauge source code is  executed line by line or statement by statement by an interpreter, rather than being compiled into machine code before execution.
+            - `Interpreted`: In such a programming langauge source code is  executed line by line or statement by statement by an interpreter, 
+               rather than being compiled into machine code before execution.
             - Because of this nature it offers ease of debugging, tends to have a slower execution, often features dynamic typing
             - Example: JavaScript, Python, Ruby, and PHP
 
@@ -18,4 +19,5 @@
             - This means that it processes `one` task at a time (single-threaded).
             - Tasks are initiated but may not complete immediately.
             - Instead of waiting for a task to finish before moving on to the next one, 
-              asynchronous programming allows a program to continue processing other tasks while waiting for the completion of certain operations.
+              asynchronous programming allows a program to continue processing other tasks 
+              while waiting for the completion of certain operations.
