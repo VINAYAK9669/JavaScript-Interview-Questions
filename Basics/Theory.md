@@ -1,10 +1,10 @@
 ## 1. What is JavaScript?
 
 ### Definition
-            -JavaScript is a `single-threaded`, `asynchronous` programming language.
-            -In practical terms, this means that JavaScript primarily executes code in a linear, step-by-step fashion with a `single thread`.
-            -However, it excels in handling asynchronous tasks by employing an event-driven, non-blocking model.
-            -This allows JavaScript to efficiently manage operations concurrently, making it well-suited for creating responsive and interactive web applications.
+            - JavaScript is a `single-threaded`, `asynchronous` programming language.
+            - In practical terms, this means that JavaScript primarily executes code in a linear, step-by-step fashion with a `single thread`.
+            - However, it excels in handling asynchronous tasks by employing an event-driven, non-blocking model.
+            -T his allows JavaScript to efficiently manage operations concurrently, making it well-suited for creating responsive and interactive web applications.
 
 #### i) `Interpreted` Programming Language.
 
