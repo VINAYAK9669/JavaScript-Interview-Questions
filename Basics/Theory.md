@@ -17,4 +17,5 @@
 
             - This means that it processes `one` task at a time (single-threaded).
             - Tasks are initiated but may not complete immediately.
-            - Instead of waiting for a task to finish before moving on to the next one, asynchronous programming allows a program to continue processing other tasks while waiting for the completion of certain operations.
+            - Instead of waiting for a task to finish before moving on to the next one, 
+              asynchronous programming allows a program to continue processing other tasks while waiting for the completion of certain operations.
